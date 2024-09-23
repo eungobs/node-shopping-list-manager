@@ -15,10 +15,10 @@ Getting Started
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/shopping-list-api.git
+https://github.com/eungobs/node-shopping-list-manager.git
 Navigate to the project directory:
 
-cd shopping-list-api
+cd shopping-list-manager
 Install the dependencies:
 
 npm install
